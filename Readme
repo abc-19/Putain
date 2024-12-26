@@ -1,0 +1,17 @@
+	         _   ,_,   _
+	        / `'=) (='` \		Putain - error handler.
+	       /.-.-.\ /.-.-.\ 		abc19
+	 jgs   `      "      `		Dec 26 2024
+
+	Brainfuck interpreter implemented in x86 for the seek
+	of speed and since it is an easy programming language
+	to make a interpreter for.
+
+	puta	[filename]
+
+	All of the programs were taken from 'https://brainfuck.org/'
+	in the same way the interpreter is implemented following
+	the guidelines provided in the same page...
+
+	Juan Diego Patino Munoz.
+	Dec 26 2024
